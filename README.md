@@ -1,0 +1,2 @@
+# Dokumentacia
+základné funkcie API
