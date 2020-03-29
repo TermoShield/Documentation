@@ -1,5 +1,7 @@
 # Documentation
 
+## List of components
+
 | Component     | Price         | Amount|
 | ------------- |:-------------:| -----:|     
 | Peltierov článok TES1-127021      | 11.93€ | 1x |   
