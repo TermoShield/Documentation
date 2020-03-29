@@ -1,2 +1,3 @@
-# Dokumentacia
-základné funkcie API
+# Documentation
+
+
