@@ -14,3 +14,4 @@
 | Modul MOSFET tranzistor IRF520 | 0.90€ | 1x |
 | Vratná poistka PolySwitch RXE090E | 0.35€ | 1x |
 | Vratná poistka PolySwitch RXE075E | 0.26€ | 1x |
+| **Total amount** | 58.09€ | 
