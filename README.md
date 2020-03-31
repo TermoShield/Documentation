@@ -28,4 +28,6 @@
 | Arduino UNO Rev3 | 23.90€ | 1x |
 | Capacitor 0.1 uF | 0.02€ | 2x |
 | Capacitor 1 uF | 0.05€ | 1x |
+| PJ-002A Jack | 0.22€ | 1x |
+| Thermocouple MAX6675 | 7.80€ | 1x |
 | **Total amount** | **58.09€** | 
