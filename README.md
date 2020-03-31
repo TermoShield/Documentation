@@ -32,4 +32,4 @@
 | Thermocouple MAX6675 | 7.80€ | 1x |
 | Tranzistor riadený poľom IRF520 | 0.63€ | 1x |
 | NTC - Termistor Epcos B57164 | 0.69€ | 1x |
-| **Total amount** | **58.09€** | 
+| **Total amount** | **109.58€** | 
