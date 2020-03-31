@@ -1,4 +1,6 @@
 # Documentation
+## Thermo-Shield
+### About the project
 
 ## List of components
 
