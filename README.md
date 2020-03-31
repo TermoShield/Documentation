@@ -25,4 +25,7 @@
 | MCP9808-E/MS | 1.09€ | 1x |
 | TMP36GT9Z - snímač teploty | 1.38€ | 1x |
 | Rezistor metalizovaný | 0.09€ | 8x |
+| Arduino UNO Rev3 | 23.90€ | 1x |
+| Capacitor 0.1 uF | 0.02€ | 2x |
+| Capacitor 1 uF | 0.05€ | 1x |
 | **Total amount** | **58.09€** | 
