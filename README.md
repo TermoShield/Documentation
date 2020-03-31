@@ -24,4 +24,5 @@
 | DS18B20 - číslicový teplomer | 1.61€ | 1x |
 | MCP9808-E/MS | 1.09€ | 1x |
 | TMP36GT9Z - snímač teploty | 1.38€ | 1x |
+| Rezistor metalizovaný | 0.09€ | 8x |
 | **Total amount** | **58.09€** | 
