@@ -14,4 +14,8 @@
 | Modul MOSFET tranzistor IRF520 | 0.90€ | 1x |
 | Vratná poistka PolySwitch RXE090E | 0.35€ | 1x |
 | Vratná poistka PolySwitch RXE075E | 0.26€ | 1x |
+| MLX90614 ESF infra sensor | 12.71€ | 1x |
+| DS18B20 - číslicový teplomer | 1.61€ | 1x |
+| MCP9808-E/MS | 1.09€ | 1x |
+| TMP36GT9Z - snímač teploty | 1.38€ | 1x |
 | **Total amount** | **58.09€** | 
