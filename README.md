@@ -30,4 +30,6 @@
 | Capacitor 1 uF | 0.05€ | 1x |
 | PJ-002A Jack | 0.22€ | 1x |
 | Thermocouple MAX6675 | 7.80€ | 1x |
+| Tranzistor riadený poľom IRF520 | 0.63€ | 1x |
+| NTC - Termistor Epcos B57164 | 0.69€ | 1x |
 | **Total amount** | **58.09€** | 
