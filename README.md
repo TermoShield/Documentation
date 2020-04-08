@@ -31,5 +31,5 @@
 | PJ-002A Jack | 0.22€ | 1x |
 | Thermocouple MAX6675 | 7.80€ | 1x |
 | Tranzistor riadený poľom IRF520 | 0.63€ | 1x |
-| NTC - Termistor Epcos B57164 | 0.69€ | 1x |
-| **Total amount** | **109.58€** | 
+| Termistor NTC B57164K0101 | 0.51€ | 1x |
+| **Total amount** | **109.48€** | 
