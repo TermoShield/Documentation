@@ -11,7 +11,7 @@
 | Component     | Price         | Quantity |
 | ------------- |:-------------:| -----:|     
 | Peltierov článok TES1-127021      | 11.93€ | 1x |   
-| Chladič V4330K    | 1.77€      |   2x |    
+| Chladič V4330K    | 1.77€      |   3x |    
 | Ventilátor MF35101V1-10000-A99 | 4.69€      |    2x |   
 | Teplovodivá pasta SIL.SE307 | 2.72€ | 1x |
 | Vykurovacie teleso TF70 12V/10W | 14.99€ | 1x |
@@ -25,7 +25,7 @@
 | DS18B20 - číslicový teplomer | 1.61€ | 1x |
 | MCP9808-E/MS | 1.09€ | 1x |
 | TMP36GT9Z - snímač teploty | 1.38€ | 1x |
-| Rezistor metalizovaný | 0.09€ | 7x |
+| Rezistor RC0402FR-1310KL | 0.09€ | 7x |
 | Rezistor ERA8AEB1650V | 0.15€ | 3x |
 | Arduino UNO Rev3 | 23.90€ | 1x |
 | Capacitor 0.1 uF | 0.02€ | 2x |
