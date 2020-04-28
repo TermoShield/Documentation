@@ -7,7 +7,8 @@
 ### About the Thermo-Shield
 The Thermo-Shield for arduino allows a board to acquire environmental data collected by an array of sensors. These sensors consist of thermocouple, IR sensor, digital thermometer, analog temperature sensor and resistance temperature detector.
 
-## List of components
+## Hardware
+### List of components
 
 | Component     | Price         | Quantity |
 | ------------- |:-------------:| -----:|     
