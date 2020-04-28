@@ -5,7 +5,7 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
 
 ### About the Thermo-Shield
-The Thermo-Shield for arduino allows a board to acquire environmental data collected by an array of sensors. These sensors consist of 
+The Thermo-Shield for arduino allows a board to acquire environmental data collected by an array of sensors. These sensors consist of thermocouple, IR sensor, digital thermometer, analog temperature sensor and resistance temperature detector.
 
 ## List of components
 
@@ -31,6 +31,6 @@ The Thermo-Shield for arduino allows a board to acquire environmental data colle
 | PJ-002A Jack* | 0.22€ | 1x |
 | Thermocouple MAX6675* | 7.80€ | 1x |
 | Dióda ES1D 1A* | 0.11€ | 5x |
-| Termistor NTC B57164K0101* | 0.51€ | 1x |
+| Thermistor NTC B57164K0101* | 0.51€ | 1x |
 | Držiak na poistku Littelfuse 65600001029* | 1€ | 1x |
 | **Total amount** | **112.10€** | 
