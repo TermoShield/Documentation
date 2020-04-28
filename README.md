@@ -18,8 +18,6 @@ The Thermo-Shield for arduino allows a board to acquire environmental data colle
 | Vykurovacie teleso TF70 12V/10W* | 14.99€ | 1x |
 | Napájací adaptér sieťový 12V 2500mA* | 9.80€ | 1x |
 | Tranzistor riadený poľom BTS117* | 2.21€ | 3x |
-| Vratná poistka PolySwitch RXE090E | 0.35€ | 1x |
-| Vratná poistka PolySwitch RXE075E | 0.26€ | 1x |
 | Pojistka trubičková GL1.2,5A/E* | 0.11€ | 1x |
 | MLX90614 ESF infra sensor* | 12.71€ | 1x |
 | DS18B20 - číslicový teplomer* | 1.61€ | 1x |
