@@ -26,7 +26,7 @@ The Thermo-Shield for arduino allows a board to acquire environmental data colle
 | TMP36GT9Z - snímač teploty* | 1.38€ | 1x |
 | Rezistor ROYAL OHM 0805S8J0103T5E* | 0.0014€ | 7x |
 | Rezistor ERA8AEB1650V* | 0.12€ | 3x |
-| PCB* | 23.90€ | 1x |
+| PCB* | 0.10€ | 1x |
 | Capacitor 0.1 uF* | 0.02€ | 2x |
 | Capacitor 1 uF* | 0.05€ | 1x |
 | PJ-002A Jack* | 0.22€ | 1x |
@@ -34,4 +34,4 @@ The Thermo-Shield for arduino allows a board to acquire environmental data colle
 | Dióda ES1D 1A* | 0.11€ | 5x |
 | Thermistor NTC B57164K0101* | 0.51€ | 1x |
 | Držiak na poistku Littelfuse 65600001029* | 1€ | 1x |
-| **Total amount** | **112.10€** | 
+| **Total amount** | **88.30€** | 
