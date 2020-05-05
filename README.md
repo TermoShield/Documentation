@@ -50,6 +50,11 @@ We design a 3D visualization of our thermo-shield using the Fusion 360 cloud-bas
 | Držiak na poistku Littelfuse 65600001029* | 1€ | 1x |
 | **Total amount** | **88.30€** | 
 
+## Software
+### Installation:
+`git clone https://github.com/TermoShield`
+or download the zip.
+
 ## Credits
 ### List personnel
 + Martin Žlnay
