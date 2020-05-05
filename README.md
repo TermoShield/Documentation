@@ -46,4 +46,5 @@ We design a 3D visualization of our thermo-shield using the Fusion 360 cloud-bas
 
 ## Credits
 ### List personnel
-Martin Žlnay, Marek Horník, Michal Mike Masaryk, Marek Sulír, Mišo Vico, Marek Noga, Peter Fábry
++ Martin Žlnay
++ Marek Horník, Michal Mike Masaryk, Marek Sulír, Mišo Vico, Marek Noga, Peter Fábry
