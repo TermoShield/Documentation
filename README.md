@@ -10,7 +10,7 @@ The Thermo-Shield for arduino allows a board to acquire environmental data colle
 ## Hardware
 
 ### 3D shield casing 
-We design a 3D visualization of our thermo-shield using the Fusion 360 cloud-based 3D CAD/CAM software which allowed us to better approach real-world problems right away from comfort of our home. Our specialized team produced astonishing model for our arduino shield project. The dimensions of this particular prototype are: ..x..x..
+We design a 3D visualization of our thermo-shield using the Fusion 360 cloud-based 3D CAD/CAM software which allowed us to better approach real-world problems right away from comfort of our home. Our specialized team produced astonishing model for our arduino shield project. The dimensions of this particular prototype are: ..x..x.. The process of homogenization is achieved through pair of vents that make a circulation and flow of air mainly focused on sensors. 
 ![alt text](https://i.imgur.com/hIZOfO8.png "3D model") 
 
 ### Printed circuit board
