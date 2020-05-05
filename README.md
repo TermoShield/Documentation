@@ -17,7 +17,8 @@ We design a 3D visualization of our thermo-shield using the Fusion 360 cloud-bas
 ![alt text](https://i.imgur.com/hhH9iUO.png "PCB") 
 
 ### Electric schematic layout
-<img align="left" width="800" height="800" src="https://i.imgur.com/zeQ6Woq.jpg">
+
+![alt text](https://i.imgur.com/sbr4ik7.jpg "Electric schematic layout") 
 
 
 ### List of components
