@@ -43,3 +43,7 @@ We design a 3D visualization of our thermo-shield using the Fusion 360 cloud-bas
 | Thermistor NTC B57164K0101* | 0.51€ | 1x |
 | Držiak na poistku Littelfuse 65600001029* | 1€ | 1x |
 | **Total amount** | **88.30€** | 
+
+## Credits
+### List personnel
+Martin Žlnay, Marek Horník, Michal Mike Masaryk, Marek Sulír, Mišo Vico, Marek Noga, Peter Fábry
