@@ -16,6 +16,8 @@ We design a 3D visualization of our thermo-shield using the Fusion 360 cloud-bas
 ### Printed circuit board
 ![alt text](https://i.imgur.com/hhH9iUO.png "PCB") 
 
+![alt text](https://i.imgur.com/OxHOceP.jpg "Electric schematic layout") 
+
 ### List of components
 
 | Component     | Price         | Quantity |
