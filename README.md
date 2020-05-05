@@ -52,7 +52,7 @@ We design a 3D visualization of our thermo-shield using the Fusion 360 cloud-bas
 
 ## Software
 ### Installation:
-`git clone https://github.com/TermoShield`
+``git clone https://github.com/TermoShield``
 or download the zip.
 
 ## Credits
