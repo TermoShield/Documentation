@@ -1,5 +1,10 @@
 # Documentation
 [About ThermoMetric Shield](https://github.com/TermoShield/Documentation#about-the-thermo-shield)
+[3D shield casing](https://github.com/TermoShield/Documentation#3d-shield-casing)
+[Printed circuit board](https://github.com/TermoShield/Documentation#printed-circuit-board)
+[Circuit design](https://github.com/TermoShield/Documentation#circuit-design)
+[List of components](https://github.com/TermoShield/Documentation#list-of-components)
+[Credits](https://github.com/TermoShield/Documentation#credits)
 
 ## Thermo-Shield
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
