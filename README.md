@@ -17,7 +17,11 @@ We design a 3D visualization of our thermo-shield using the Fusion 360 cloud-bas
 ### Printed circuit board
 ![alt text](https://i.imgur.com/hhH9iUO.png "PCB") 
 
-### Electric schematic layout
+### Circuit design
+The circuit schematics has been designed in the DIPTrace CAD software. You may download the circuit schematics for ThermoMetric shield the  from link below.
+```
+circuit schematics https://github.com/TermoShield
+```
 
 ![alt text](https://i.imgur.com/sbr4ik7.jpg "Electric schematic layout") 
 
