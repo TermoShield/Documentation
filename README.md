@@ -45,8 +45,8 @@ The exact component specification and required quantities are given next.
 
 ### List of components
 
-| Component     | Price         | Quantity |
-| ------------- |:-------------:| -----:|     
+| Component     | Price         | Quantity | Link |
+| ------------- |:-------------:| -----:| -----|    
 | [Peltierov článok TES1-127021](https://www.conrad.sk/peltierov-clanok-tru-components-tes1-127021-15-4-v-dc-2-1-a-18-1-w.k1569028) | 11.93€ | 1x |   
 | [Chladič V4330K](https://www.gme.sk/v4330k) | 1.77€      |   3x |    
 | [Ventilátor MF35101V1-10000-A99](https://www.gme.sk/mf35101v1-10000-a99) | 4.69€      |    2x |   
