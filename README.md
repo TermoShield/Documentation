@@ -45,10 +45,10 @@ The exact component specification and required quantities are given next.
 
 ### List of components
 
-| Component     | Price         | Quantity | Link |
-| ------------- |:-------------:| -----:| -----|    
-| [Peltierov článok TES1-127021](https://www.conrad.sk/peltierov-clanok-tru-components-tes1-127021-15-4-v-dc-2-1-a-18-1-w.k1569028) | 11.93€ | 1x |  [Link](https://www.conrad.sk/peltierov-clanok-tru-components-tes1-127021-15-4-v-dc-2-1-a-18-1-w.k1569028)
-| [Chladič V4330K](https://www.gme.sk/v4330k) | 1.77€      |   3x |   [Link](https://www.gme.sk/v4330k) 
+| Component     | Price         | Quantity | 
+| ------------- |:-------------:| -----:|    
+| [Peltierov článok TES1-127021](https://www.conrad.sk/peltierov-clanok-tru-components-tes1-127021-15-4-v-dc-2-1-a-18-1-w.k1569028) | 11.93€ | 1x | 
+| [Chladič V4330K](https://www.gme.sk/v4330k) | 1.77€      |   3x |   
 | [Ventilátor MF35101V1-10000-A99](https://www.gme.sk/mf35101v1-10000-a99) | 4.69€      |    2x |   
 | [Teplovodivá pasta SIL.SE307](https://www.gme.sk/teplovodiva-pasta-sil-se307-white-5g) | 2.72€ | 1x |
 | [Vykurovacie teleso TF70 12V/20W](https://www.hudiny.sk/12v-20w-mini-ploche-vyhrevne-teleso-26x38mm.html) | 14.99€ | 1x |
