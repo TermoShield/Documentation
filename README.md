@@ -2,11 +2,11 @@
 
 ### Contents
 + [About ThermoMetric Shield](#about-the-thermo-shield)
-+ [3D shield casing](https://github.com/TermoShield/Documentation#3d-shield-casing)
-+ [Printed circuit board](https://github.com/TermoShield/Documentation#printed-circuit-board)
-+ [Circuit design](https://github.com/TermoShield/Documentation#circuit-design)
-+ [List of components](https://github.com/TermoShield/Documentation#list-of-components)
-+ [Credits](https://github.com/TermoShield/Documentation#credits)
++ [3D shield casing](#3d-shield-casing)
++ [Printed circuit board](#printed-circuit-board)
++ [Circuit design](#circuit-design)
++ [List of components](#list-of-components)
++ [Credits](#credits)
 
 ## Terminator T-800 shield
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
