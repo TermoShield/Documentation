@@ -1,7 +1,7 @@
 # Documentation
 
 ### Contents
-+ [About ThermoMetric Shield](https://github.com/TermoShield/Documentation#about-the-thermo-shield)
++ [About ThermoMetric Shield](#about-the-thermo-shield)
 + [3D shield casing](https://github.com/TermoShield/Documentation#3d-shield-casing)
 + [Printed circuit board](https://github.com/TermoShield/Documentation#printed-circuit-board)
 + [Circuit design](https://github.com/TermoShield/Documentation#circuit-design)
