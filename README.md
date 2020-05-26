@@ -8,12 +8,12 @@
 + [List of components](#list-of-components)
 + [Credits](#credits)
 
-## Terminator T-800 shield
+## ThermoMetric Shield
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
 
-### About the Thermo-Shield
+### About the ThermoMetric Shield
 Your solution for precise and extended range temperature measurements. The Thermo-Shield for arduino allows a board to acquire environmental data collected by an array of sensors. These sensors consist of thermocouple, IR sensor, digital thermometer, analog temperature sensor and resistance temperature detector. This shield relies on the MAX6675 thermocouple digital interface and allows a board to acquire temperatures from a thermocouple of type K and a DS18B20 digital one wire sensor.
 ## Hardware
 
