@@ -84,9 +84,11 @@ Hardware design
 + Michal Mike Masaryk
 + Mišo Vico 
 + Marek Noga
+
 3D model design
 + Peter Fábry
 + Marek Sulír 
+
 Wiki
 + Martin Žlnay
 + Daniel Fazekas
