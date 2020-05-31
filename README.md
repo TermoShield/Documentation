@@ -25,7 +25,7 @@ We design a 3D visualization of our thermo-shield using the [Fusion 360](https:/
 ### Printed circuit board
 The printed circuit board has been designed in the Freeware version of the [DIPTrace](https://diptrace.com/) CAD software. The PCB is two-layer and fits within the customary 100x100mm limit of most board manufacturers. The DIPTrace PCB layout and circuit schematics can be downloaded [here](https://github.com/gergelytakacs/AutomationShield/wiki/file/Thermo/ThermoShield_PCB2.1.rar).
 
-![alt text](https://github.com/gergelytakacs/AutomationShield/wiki/fig/hhH9iUO.png "PCB") 
+![alt text](https://github.com/gergelytakacs/AutomationShield/wiki/fig/ThemoShield_pcb2.3.png "PCB") 
 
 ### Circuit design
 The circuit schematics has been designed in the DIPTrace CAD software. You may download the circuit schematics for ThermoMetric shield the  from link below.
@@ -40,7 +40,7 @@ Temperature feedback is based on a negative temperature coefficient (NTC) thermi
 
 The exact component specification and required quantities are given next.
 
-![alt text](https://github.com/gergelytakacs/AutomationShield/wiki/fig/sbr4ik7.jpg "Electric schematic layout") 
+![alt text](https://github.com/gergelytakacs/AutomationShield/wiki/fig/ThermoShield_circuit_v2.bmp "Electric schematic layout") 
 
 
 ### List of components
