@@ -79,17 +79,18 @@ or download the zip.
 
 ## Credits
 ### List personnel
-Hardware design
+**Hardware design**
 + Marek Horník 
 + Michal Mike Masaryk
 + Mišo Vico 
 + Marek Noga
++ Martin Žlnay
 
-3D model design
+**3D model design**
 + Peter Fábry
 + Marek Sulír 
 
-Wiki
+**Wiki**
 + Martin Žlnay
 + Daniel Fazekas
  
