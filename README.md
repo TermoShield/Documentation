@@ -39,7 +39,6 @@ Normal temperatures used to melt plastics in 3D printing are over 200°C and may
 
 Temperature feedback is based on a negative temperature coefficient (NTC) thermistor BT2 connected to the A0 analog input pin of the MCU in a voltage divider circuit paired with a resistor R1.
 
-The exact component specification and required quantities are given next.
 
 ![alt text](https://github.com/gergelytakacs/AutomationShield/wiki/fig/ThermoShield_circuit_v2.jpg "Electric schematic layout") 
 
