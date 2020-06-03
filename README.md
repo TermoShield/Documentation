@@ -26,7 +26,7 @@ We design a 3D visualization of our thermo-shield using the [Fusion 360](https:/
 ### Printed circuit board
 The printed circuit board has been designed in the Freeware version of the [DIPTrace](https://diptrace.com/) CAD software. The PCB is two-layer and fits within the customary 100x100mm limit of most board manufacturers. The DIPTrace PCB layout and circuit schematics can be downloaded [here](https://github.com/gergelytakacs/AutomationShield/wiki/file/Thermo/ThermoShield_PCB2.1.rar).
 
-![alt text](https://github.com/gergelytakacs/AutomationShield/wiki/fig/ThemoShield_pcb2.3.png "PCB") 
+![alt text](https://github.com/gergelytakacs/AutomationShield/wiki/fig/pcb_top_Thermoshield.png "PCB") 
 ![alt text](https://github.com/gergelytakacs/AutomationShield/wiki/fig/pcb_bottom_thermoshield.png "PCB") 
 
 ### Circuit design
