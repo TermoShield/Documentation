@@ -1,12 +1,12 @@
 # Documentation
 
 ### Contents
-+ [About ThermoMetric Shield](#about-the-thermo-shield)
-+ [3D shield casing](#3d-shield-casing)
-+ [Printed circuit board](#printed-circuit-board)
-+ [Circuit design](#circuit-design)
-+ [List of components](#list-of-components)
-+ [Credits](#credits)
+[About ThermoMetric Shield](#about-the-thermo-shield)<br/>
+[3D shield casing](#3d-shield-casing)<br/>
+[Printed circuit board](#printed-circuit-board)<br/>
+[Circuit design](#circuit-design)<br/>
+[List of components](#list-of-components)<br/>
+[Credits](#credits)<br/>
 
 ## ThermoMetric Shield
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") 
@@ -18,7 +18,7 @@ Your solution for precise and extended range temperature measurements. The Therm
 ## Hardware
 
 ### 3D shield casing 
-We designed a 3D visualization of our thermo-shield using the [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) cloud-based 3D CAD/CAM software which allowed us to better approach real-world problems right away from comfort of our home. Our specialized team produced astonishing model for our arduino shield project. The dimensions of this particular prototype are: ..x..x.. The process of homogenization is achieved through pair of vents that make a circulation and flow of hot air created by Peltier cooling module mainly focused on installed sensors and supported by an inner radiator. The air flows through sophicticated air channel at the bottom of the wall between the vents and the sensors. The air with appropriate temperature is distributed to chamber so that every sensor has equal conditions. All of the componets are packed to lightweight materials to secure transferability as well as maneuverability. This was the demanded property. Several additional changes were made to protect both the PCB and the componets of the external energy sources. The goal that we have been searching for was acceptable balance between the price and those two factors. The last but not least was the issue of maintanance that expected the whole product to be easy to repair if necessary. Our skilled specialist took lead of this approach and came up with the following design. F3Z format Can be downloaded [here](https://github.com/gergelytakacs/AutomationShield/wiki/file/Thermo/Complet-assemblery_v12.rar) or STEP format [here](https://github.com/gergelytakacs/AutomationShield/wiki/file/Thermo/Complet-3D_model_ThermoShield_assemblery_v12.rar)
+We design a 3D visualization of our thermo-shield using the [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) cloud-based 3D CAD/CAM software. It si a Freeware program. Our specialized team produced model for our arduino shield project. The dimensions of this particular prototype are: ..x..x.. The process of homogenization is achieved through pair of vents that make a circulation and flow of hot air created by Peltier cooling module mainly focused on installed sensors and supported by an inner radiator. The air flows through sophicticated air channel at the bottom of the wall between the vents and the sensors. The air with appropriate temperature is distributed to chamber so that every sensor has equal conditions. All of the componets are packed to lightweight materials to secure transferability as well as maneuverability. This was the demanded property. Several additional changes were made to protect both the PCB and the componets of the external energy sources. The last but not least was the issue of maintanance that expected the whole product to be easy to repair if necessary. Our specialist took lead of this approach and came up with the following design. Can be downloaded [here](https://github.com/gergelytakacs/AutomationShield/wiki/file/Thermo/Complet-assemblery-v11.rar)
 
 ![alt text](https://github.com/gergelytakacs/AutomationShield/wiki/fig/3D_model_ThermoMetricShield.png "3D model") 
 
@@ -79,20 +79,11 @@ or download the zip.
 
 ## Credits
 ### List personnel
-**Hardware design**
-+ Marek Horník 
-+ Michal Mike Masaryk
-+ Mišo Vico 
-+ Marek Noga
-+ Martin Žlnay
+**Hardware design:** Marek Horník, Michal Masaryk, Michal Vico, Marek Noga, Martin Žlnay
 
-**3D model design**
-+ Peter Fábry
-+ Marek Sulír 
+**3D model design:** Peter Fábry, Marek Sulír 
 
-**Wiki**
-+ Martin Žlnay
-+ Daniel Fazekas
+**Wiki:** Daniel Fazekas, Martin Žlnay
  
 
  
