@@ -46,7 +46,7 @@ Temperature feedback is based on a negative temperature coefficient (NTC) thermi
 ### List of components
 
 | Component     | Price         | Quantity | 
-| ------------- |:-------------:| -----:|    
+| ------------- |:-------------:| :-----:|    
 | [Thermoelectric cooling TES1-127021](https://www.conrad.sk/peltierov-clanok-tru-components-tes1-127021-15-4-v-dc-2-1-a-18-1-w.k1569028) | 11.93€ | 1x | 
 | [Heatsinks V4330K](https://www.gme.sk/v4330k) | 1.77€      |   3x |   
 | [Fan MF35101V1-10000-A99](https://www.gme.sk/mf35101v1-10000-a99) | 4.69€      |    2x |   
